@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thirsty", "thirsty\thirsty.vcxproj", "{166C8136-167A-4108-8837-0993F71BC0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166C8136-167A-4108-8837-0993F71BC0F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{166C8136-167A-4108-8837-0993F71BC0F2}.Debug|Win32.Build.0 = Debug|Win32
+		{166C8136-167A-4108-8837-0993F71BC0F2}.Release|Win32.ActiveCfg = Release|Win32
+		{166C8136-167A-4108-8837-0993F71BC0F2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
